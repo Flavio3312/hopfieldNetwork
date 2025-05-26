@@ -8,7 +8,6 @@ Este proyecto implementa una **red neuronal de Hopfield** para el reconocimiento
 - Introducir ruido al patrón para simular condiciones reales de distorsión.
 - Utilizar la red para recuperar el patrón original a través de iteraciones.
 - Visualizar la evolución del patrón en cada iteración.
-- Marcar el **Punto A** (centro del cilindro) en cada imagen generada.
 - Mostrar la posición del punto de perforación en centímetros.
 
 ## 🧩 Características del Modelo
@@ -37,7 +36,4 @@ Este enfoque es útil en sistemas de visión artificial para tareas como:
 - `numpy`
 - `matplotlib`
 
-## ▶️ Ejecución
 
-```bash
-python hopfield_cilindro.py
